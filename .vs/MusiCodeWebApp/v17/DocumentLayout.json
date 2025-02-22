@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\areas\\managerpanel\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\areas\\managerpanel\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\areas\\managerpanel\\data\\managerloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\areas\\managerpanel\\data\\managerloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\areas\\managerpanel\\managerpanelarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\areas\\managerpanel\\managerpanelarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\areas\\managerpanel\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\areas\\managerpanel\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|c:\\users\\huawei\\documents\\github\\musicode-e-commerce-mvc-webapp\\musicodewebapp\\models\\managerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544C2B74-348F-4A0E-8EDF-3CE998570A31}|MusiCodeWebApp\\MusiCodeWebApp.csproj|solutionrelative:musicodewebapp\\models\\managerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Data\\ManagerLoginViewModel.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Areas\\ManagerPanel\\Data\\ManagerLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Data\\ManagerLoginViewModel.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Areas\\ManagerPanel\\Data\\ManagerLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:21:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Areas\\ManagerPanel\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MusiCodeWebApp\\Areas\\ManagerPanel\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:15:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Areas\\ManagerPanel\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Areas\\ManagerPanel\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:14:26.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerPanelAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\ManagerPanelAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Areas\\ManagerPanel\\ManagerPanelAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Areas\\ManagerPanel\\ManagerPanelAreaRegistration.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Areas\\ManagerPanel\\ManagerPanelAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:12:14.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerRole.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\ManagerRole.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Models\\ManagerRole.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\ManagerRole.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Models\\ManagerRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:40:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\Manager.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Models\\Manager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:24:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:39:14.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\DBModel.cs",
+              "RelativeDocumentMoniker": "MusiCodeWebApp\\Models\\DBModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Documents\\GitHub\\MusiCode-E-Commerce-MVC-WebApp\\MusiCodeWebApp\\Models\\DBModel.cs",
+              "RelativeToolTip": "MusiCodeWebApp\\Models\\DBModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:37:03.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
