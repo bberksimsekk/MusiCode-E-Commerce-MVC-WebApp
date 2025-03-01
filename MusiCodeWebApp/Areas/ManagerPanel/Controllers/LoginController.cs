@@ -18,7 +18,6 @@ namespace MusiCodeWebApp.Areas.ManagerPanel.Controllers
                 HttpCookie SavedCookie = Request.Cookies["ManagerCookie"];
                 string mail = SavedCookie.Values["mail"];
                 string password = SavedCookie.Values["password"];
-
                 Manager m = db.Managers.FirstOrDefault(x => x.Mail == mail && x.Password == password);
                 if (m != null) 
                 {
@@ -65,6 +64,17 @@ namespace MusiCodeWebApp.Areas.ManagerPanel.Controllers
                 }
             }
             return View(model);
+        }
+        public ActionResult LogOut()
+        {
+            Session["ManagerSession"] = null;
+            if (Request.Cookies["ManagerCookie"] != null)
+            {
+                HttpCookie SavedCookie = Request.Cookies["ManagerCookie"];
+                SavedCookie.Expires = DateTime.Now.AddDays(-1);
+                Response.Cookies.Add(SavedCookie);
+            }
+            return RedirectToAction("Index", "Login");
         }
     }
 }
