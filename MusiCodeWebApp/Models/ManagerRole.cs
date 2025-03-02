@@ -6,7 +6,7 @@ using System.Web;
 
 namespace MusiCodeWebApp.Models
 {
-	public class ManagerRole:Entity
+	public class ManagerRole : Entity
 	{
         [Display(Name="Rol Adı")]
         [Required(ErrorMessage = "Bu alan boş bırakılamaz.")]

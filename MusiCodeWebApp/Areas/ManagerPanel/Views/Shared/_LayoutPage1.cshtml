@@ -1,6 +1,10 @@
 ﻿@using MusiCodeWebApp.Models;
 @{ 
     Manager m = Session["ManagerSession"] as Manager;
+    if (Session["ManagerSession"] != null)
+    {
+        m = Session["ManagerSession"] as Manager;
+    }
 }
 
 <!DOCTYPE html>
@@ -10,6 +14,7 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
     <link href="~/Areas/ManagerPanel/Assets/CSS/ManagerStyle.css" rel="stylesheet" />
+    @RenderSection("Styles",false)
 </head>
 <body>
     <div class="menuContainer">
@@ -27,10 +32,10 @@
         <a href="@Url.Action("Index","Home")">Anasayfa</a>
         <label>Kategori</label>
         <a href="@Url.Action("Index","Home")">Kategori Listele</a>
-        <a href="@Url.Action("Index","Home")">Kategori Ekle</a>
+        <a href="@Url.Action("Create","Home")">Kategori Ekle</a>
         <label>Marka</label>
         <a href="@Url.Action("Index","Home")">Marka Listele</a>
-        <a href="@Url.Action("Index","Home")">Marka Ekle</a>
+        <a href="@Url.Action("Create","Home")">Marka Ekle</a>
     </div>
     <div class="mainContainer">
         @RenderBody()

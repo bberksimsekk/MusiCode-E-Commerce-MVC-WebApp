@@ -96,6 +96,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Areas\ManagerPanel\Assets\CSS\FormStyle.css" />
     <Content Include="Areas\ManagerPanel\Assets\CSS\ManagerLogin.css" />
     <Content Include="Areas\ManagerPanel\Assets\CSS\ManagerStyle.css" />
     <Content Include="Areas\ManagerPanel\Assets\Images\MusicodeLogo-White.png" />
@@ -105,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\ManagerPanel\Controllers\CategoryController.cs" />
     <Compile Include="Areas\ManagerPanel\Controllers\HomeController.cs" />
     <Compile Include="Areas\ManagerPanel\Controllers\LoginController.cs" />
     <Compile Include="Areas\ManagerPanel\Data\ManagerLoginViewModel.cs" />
@@ -114,6 +116,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Category.cs" />
     <Compile Include="Models\DBModel.cs" />
     <Compile Include="Models\Entity.cs" />
     <Compile Include="Models\Manager.cs" />
@@ -126,6 +129,8 @@
     <Content Include="Areas\ManagerPanel\Views\Login\Index.cshtml" />
     <Content Include="Areas\ManagerPanel\Views\Shared\_LayoutPage1.cshtml" />
     <Content Include="Areas\ManagerPanel\Views\Home\Index.cshtml" />
+    <Content Include="Areas\ManagerPanel\Views\Category\Index.cshtml" />
+    <Content Include="Areas\ManagerPanel\Views\Category\Create.cshtml" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

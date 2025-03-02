@@ -1,0 +1,31 @@
+﻿.tablo {
+    width: 100%;
+    border: 1px solid silver;
+}
+
+.tablo tr th {
+    background-color: #f7f7f7;
+    border: 1px solid silver;
+    padding: 7px;
+}
+
+.tablo tr td {
+    border-left: 1px solid silver;
+    border-bottom: 1px solid silver;
+    padding: 10px;
+}
+.editButton {
+    padding: 3px 7px;
+    background-color: #1095e6;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.deleteButton {
+    padding: 3px 7px;
+    background-color: #cc1515;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+}
